@@ -1,0 +1,14 @@
+h1 {
+	color: red;
+	font-family: sans-serif;
+}
+
+body {
+	background-color: deepskyblue;
+	width: 70%;
+	font-family: arial;
+}
+
+ul.s {
+	list-style-type: circle;
+}
